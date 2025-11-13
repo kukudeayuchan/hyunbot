@@ -5,12 +5,13 @@
 
 当用户给管理员发消息时（即 Bot 转发给管理员成功后），Bot 会按用户会话发送一条「会话头」：
 
-```text
+
 📂 会话 U003
 👤 用户: @username 或 tg://user 链接
 🆔 ID: `123456789`
 🌐 语言: `zh-hans` / `en` 等
 ---
+
 # 🤖 HyunBot - Telegram 管理员转发与防骚扰机器人
 
 HyunBot 是一个基于 Cloudflare Workers 构建的 Telegram 中转机器人，

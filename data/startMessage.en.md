@@ -1,22 +1,23 @@
- 🤖 Welcome to Hyun’s Private Chat Assistant
+🤖 Welcome to the Message Passer
 
-👋 Hi there!  
-I’m Hyun’s dedicated Telegram assistant. I’ll safely forward your messages to Hyun and deliver Hyun’s replies back to you.
+👋 Hello!
 
----
+I am the Message Passer for Rayne, responsible for securely forwarding your messages to Rayne and relaying Rayne's responses back to you.
 
- 📌 How to use
+📌 How to Use
 
-- Just type your question, idea, or request  
-- I’ll instantly pass it on to Hyun  
-- Hyun will read and reply as soon as possible — please be patient
+Please directly input your questions, ideas, or needs.
 
----
+I will pass them on to Rayne immediately.
 
- 🔒 Note
+Rayne will check and reply as soon as possible, please be patient.
 
-- Please do not send illegal, abusive, or spam messages
-- Repeated misuse may get you blocked
-- For urgent matters, please wait patiently for Hyun’s response
+🔒 Note:
 
-Thank you for your understanding and cooperation. Happy chatting! 🙌
+Do not send illegal or harassing messages.
+
+Repeated abuse may result in being blocked.
+
+For urgent matters, please wait patiently for Rayne to handle.
+
+Thank you for your patience!
